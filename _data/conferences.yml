@@ -686,15 +686,15 @@
   paperslink:
   pwclink:
 - title: WWW
-  year: 2023
-  id: www23
-  deadline: "2022-10-13 23:59:59"
+  year: 2024
+  id: www24
+  deadline: TBD
   timezone: UTC-12
-  date: May 1-5, 2023
-  link: https://www2023.thewebconf.org/
-  place: Austin, Texas, US
+  date: May 13-17, 2024
+  link: https://www2024.thewebconf.org/
+  place: Singapore
   sub: DM
-  abstract_deadline: "2022-10-06 23:59:59"
+  abstract_deadline: TBD
   note:
   hindex: 70
   long:
